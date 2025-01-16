@@ -1,3 +1,3 @@
 # PMRCA
 
-The core code has been publicly released. We are committed to publishing the complete pipeline upon acceptance.
+The core code has been publicly released for the review.
